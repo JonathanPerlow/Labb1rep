@@ -4,6 +4,8 @@
 
 bool isRunning = true;
 
+string message = "Hej Micke";
+
 while (isRunning)
 {
     DisplayMenu();
