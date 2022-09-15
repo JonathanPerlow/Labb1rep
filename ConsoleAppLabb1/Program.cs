@@ -5,6 +5,7 @@
 bool isRunning = true;
 
 string message = "Hej Micke";
+string message2 = "Trevlig rättning";
 
 while (isRunning)
 {
